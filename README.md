@@ -1,6 +1,6 @@
 # AI_final_OCR
 ## NYCU Intro_to_AI
-The main code is cited from [crnn-pytorch](https://github.com/GitYCC/crnn-pytorch).
+Most code is cited from [crnn-pytorch](https://github.com/GitYCC/crnn-pytorch).
 ## Purpose
 This repo is trying to findout the resistence of CRNN model to handle OCR under various image conditions.
 ## Usage
